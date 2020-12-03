@@ -1,7 +1,10 @@
 # ML-model-implementation-python
-Implémentation en dur avec python des différents  algorithmes de ML
-- Decente de gradien
+
+Implémentation en dur avec python des différents  algorithmes de ML/DL
+
 - Regression lineaire
-- regression Logistique
+- Regression Logistique
 - SVM
 - Decision tree
+- RNN Feed Forward
+- Retropropagation
