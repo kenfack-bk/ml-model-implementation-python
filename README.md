@@ -7,4 +7,3 @@ Machine learning models implementation with python.
 - Softmax
 - SVM
 - Decision tree
-- ANN
