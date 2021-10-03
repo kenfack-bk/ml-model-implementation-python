@@ -1,9 +1,9 @@
 # ml-model-implementation-python
 
-Implémentation en dur avec python de différents  algorithmes de ML/DL
+Machine learning models implementation with python.
 
-- Regression lineaire
-- Regression Logistique
+- Linear regression
+- Logistic regression
 - Softmax
 - SVM
 - Decision tree
