@@ -1,4 +1,4 @@
-# ml-model-implementation-python
+# Machine Learning source code
 
 Machine learning models implementation with python.
 
